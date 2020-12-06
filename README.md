@@ -1,5 +1,5 @@
 # BrainBooster
-Quiz game 
+Brainbooster is a quiz game which is developed using java language. 
 
 Overview:
 Brain booster is a quiz game to enhance the knowledge of english listening along with the vocabulary.

@@ -22,7 +22,7 @@ User should be careful while guessing the spellings because their marks will be 
 # Abstract of the game
 “Get puzzle with the word” is a game with the help of which you can boost your brain.
 In this game, concentration is required to win the game.
-“Get puzzle with the word” game is a quiz like game in which at first user will listen a voice and then can guess the right spellings of that word.
+This game is a quiz like game in which at first user will listen a voice and then can guess the right spellings of that word.
 In this manner, user will be able to learn more and more new words.
 And also user will be able to check the right meaning of that particular word.
 
